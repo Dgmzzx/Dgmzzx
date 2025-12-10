@@ -33,7 +33,8 @@ I'm a **web and front-end developer** passionate about building clean, responsiv
 
 ---
 ### GitHub stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dgmzzx&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dgmzzx&theme=dark)](https://git.io/streak-stats)
+
 
 
 ✨ *Thanks for visiting my profile!* ✨
