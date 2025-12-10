@@ -33,9 +33,7 @@ I'm a **web and front-end developer** passionate about building clean, responsiv
 
 ---
 ### GitHub stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dgmzzx&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dgmzzx&layout=compact&theme=tokyonight)](https://github.com/Dgmzzx/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dgmzzx&theme=dark)](https://git.io/streak-stats)s)
 
 
 ✨ *Thanks for visiting my profile!* ✨
