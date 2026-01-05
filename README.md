@@ -32,11 +32,6 @@ I'm a **web and front-end developer** passionate about building clean, responsiv
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luvfordionis/)
 
 ---
-### GitHub stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dgmzzx&theme=dark)](https://git.io/streak-stats)
 
-
-
-✨ *Thanks for visiting my profile!* ✨
 
 
